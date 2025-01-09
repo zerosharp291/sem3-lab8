@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zerosharp/projects/semestr3/lab8/build",
+  "command": "/usr/bin/c++  -I/home/zerosharp/projects/semestr3/lab8/include -g -o CMakeFiles/run.dir/src/task1.cpp.o -c /home/zerosharp/projects/semestr3/lab8/src/task1.cpp",
+  "file": "/home/zerosharp/projects/semestr3/lab8/src/task1.cpp",
+  "output": "CMakeFiles/run.dir/src/task1.cpp.o"
+},
+{
+  "directory": "/home/zerosharp/projects/semestr3/lab8/build",
+  "command": "/usr/bin/c++  -I/home/zerosharp/projects/semestr3/lab8/include -g -o CMakeFiles/run.dir/src/passenger.cpp.o -c /home/zerosharp/projects/semestr3/lab8/src/passenger.cpp",
+  "file": "/home/zerosharp/projects/semestr3/lab8/src/passenger.cpp",
+  "output": "CMakeFiles/run.dir/src/passenger.cpp.o"
+}
+]

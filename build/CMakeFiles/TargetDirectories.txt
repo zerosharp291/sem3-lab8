@@ -1,0 +1,3 @@
+/home/zerosharp/projects/semestr3/lab8/build/CMakeFiles/run.dir
+/home/zerosharp/projects/semestr3/lab8/build/CMakeFiles/edit_cache.dir
+/home/zerosharp/projects/semestr3/lab8/build/CMakeFiles/rebuild_cache.dir
